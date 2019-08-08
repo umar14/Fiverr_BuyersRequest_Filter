@@ -1,5 +1,5 @@
 # Fiverr_BuyersRequest_Filter
-Tampermonkey/Greasemonkey scripts for Sellers.  
+Tampermonkey/Greasemonkey scripts for Sellers. You need to have [Tampermonkey-Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) or [Greasemonkey-Firefox](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) installed to be able to use these scripts.
 
 `script_filter.js` filters out Buyers requests on Fiverr with specified keywords.  
 `script_name.js` modifies the `Send Request` button and replaces it with the Buyer's name.  
